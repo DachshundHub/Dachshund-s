@@ -1,7 +1,7 @@
 
 local gameScripts = {
     [136835976646463] = "https://raw.githubusercontent.com/DachshundHub/Dachshund-s/refs/heads/main/dachshund-hub.lua", -- Game 1
-    [12355337193] = "https://raw.githubusercontent.com/DachshundHub/Dachshund-s/refs/heads/main/mvsd.lua"           -- Game 2
+    [12355337193] = "https://raw.githubusercontent.com/DachshundHub/Dachshund-s/refs/heads/main/you.lua"           -- Game 2
 }
 
 local currentGame = game.PlaceId
